@@ -14,5 +14,10 @@ This project implements a Delta Live Tables (DLT) pipeline for finance transacti
 - Delta Live Tables
 - PySpark
 
+# Databricks Free Edition
+- Link: https://www.databricks.com/learn/free-edition
+
 # How to Run
 1. Convert .py file into databricks notebook.
+
+
